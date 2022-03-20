@@ -10,7 +10,7 @@ keywords:
 author: 赫兹梓籽
 language: zh-CN
 timezone: ''
-skip_render: admin/*
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -29,7 +29,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: admin/*
 
 # Writing
 new_post_name: :title.md # File name of new posts
