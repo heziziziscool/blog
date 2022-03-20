@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: HeziziziBlog
+title: 赫兹梓籽的博客
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: 赫兹梓籽
 language: zh-CN
 timezone: ''
+skip_render: admin/*
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
