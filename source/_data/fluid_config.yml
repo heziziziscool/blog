@@ -1,0 +1,24 @@
+index:
+  banner_img: https://cdn2.maocdn.cn/img/2022/01/26/7861dcd7ly1gwqkndxgg2j20go0bw41v.jpg
+  banner_img_height: 100
+post:
+  banner_img: https://cdn.jsdelivr.net/gh/leicancun/img@main/banner_img/mmexport1602581319886.webp
+  banner_img_height: 70
+  default_index_img: https://cdn.jsdelivr.net/gh/leicancun/img@main/banner_img/wallhaven-g8wvm7.webp
+archive:
+  banner_img: https://cdn.jsdelivr.net/gh/leicancun/img@main/banner_img/wallhaven-q6ov7d.webp
+  banner_img_height: 80
+category:
+  banner_img: https://cdn.jsdelivr.net/gh/leicancun/img@main/banner_img/wallhaven-zm93dj.webp
+  banner_img_height: 80
+tag:
+  banner_img: https://cdn.jsdelivr.net/gh/leicancun/img@main/banner_img/wallhaven-1kkm2g.webp
+  banner_img_height: 80
+about:
+  banner_img: https://cdn.jsdelivr.net/gh/leicancun/img@main/banner_img/wallhaven-pkkr2.webp
+  banner_img_height: 80
+links:
+  banner_img: https://cdn.jsdelivr.net/gh/leicancun/img@main/banner_img/wallhaven-rddv31.webp
+  banner_img_height: 80
+  items:
+    
